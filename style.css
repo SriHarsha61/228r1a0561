@@ -1,0 +1,7 @@
+body{
+    margin:0;
+    padding: 0;
+    padding-left: 90vh;
+    background-color: rgb(34, 207, 11);
+    display: flex;
+}
